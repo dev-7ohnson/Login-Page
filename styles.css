@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  justify-content: center;
+  display: flex;
+  background: rgba(197, 207, 206, 0.945);
+}
+.wrapper {
+  background: white;
+  width: 28%;
+  margin: 80px;
+  height: auto;
+  border-radius: 10px;
+}
+.logo {
+  text-align: center;
+  font-size: 12px;
+  padding: 50px;
+}
+.logo span {
+  color: darkblue;
+}
+.form-container {
+  margin: 30px;
+  display: block;
+}
+.form-container h1 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+.form-container input[type="email"],
+.form-container input[type="password"] {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border: none;
+  outline: none;
+  background: rgb(236, 230, 230);
+  border-radius: 5px;
+}
+.form-container input[type="submit"] {
+  background: darkblue;
+  font-weight: 600;
+  color: white;
+  width: 100%;
+  padding: 8px;
+  border: none;
+  border-radius: 5px;
+}
+.form-container p {
+  margin-top: 30px;
+  text-align: center;
+}
+#alt-way {
+    margin-top: 70px;
+  margin-bottom: 10px;
+}
+.social-icon {
+  margin: 10px;
+  display: inline;
+  padding: 15px;
+}
+.social-icon a {
+  padding: 10px;
+  width: 20%;
+  margin-left: 15px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
+.social-icon a img {
+  width: auto;
+  max-width: 55%;
+  max-height: 50%;
+}
+#swap-link{
+    margin-bottom: 50px;
+}
