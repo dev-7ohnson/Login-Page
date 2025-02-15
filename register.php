@@ -50,7 +50,7 @@
         </div>
         <p id="swap-link">
           Already have an account?
-          <a href="/index.html">Sign In</a>
+          <a href="/index.php">Sign In</a>
         </p>
       </div>
     </div>

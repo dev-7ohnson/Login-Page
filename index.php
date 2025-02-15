@@ -44,7 +44,7 @@
             href="https://www.twitter.com"
           ><img src="https://img.icons8.com/fluency/48/twitter.png" alt="twitter"/></a>
         </div>
-        <p id="swap-link">Don't have an account?<a href="/signup.html"> Sign Up</a></p>
+        <p id="swap-link">Don't have an account?<a href="/register.php"> Sign Up</a></p>
       </div>
     </div>
   </body>
